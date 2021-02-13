@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.platform = :ios
   spec.ios.deployment_target = '14.0'
   spec.name         = "Core"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Core.framework for modularization."
   spec.requires_arc = true
 
